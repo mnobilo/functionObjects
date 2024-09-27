@@ -1,3 +1,0 @@
-rotatingCoordSystemForces/rotatingCoordSystemForces.C
-
-LIB = $(FOAM_USER_LIBBIN)/librotatingCoordSystemForces
