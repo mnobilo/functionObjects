@@ -1,3 +1,0 @@
-updatingCoordSystemForces/updatingCoordSystemForces.C
-
-LIB = $(FOAM_USER_LIBBIN)/libupdatingCoordSystemForces
